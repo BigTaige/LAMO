@@ -104,5 +104,13 @@ For more details on execution, please refer to the [HAR-GUI repository](https://
 ## Citation
 
 ```bibtex
-Coming soon.
+@misc{wang2026scalablelightweightguiagents,
+      title={Towards Scalable Lightweight GUI Agents via Multi-role Orchestration}, 
+      author={Ziwei Wang and Junjie Zheng and Leyang Yang and Sheng Zhou and Xiaoxuan Tang and Zhouhua Fang and Zhiwei Liu and Dajun Chen and Yong Li and Jiajun Bu},
+      year={2026},
+      eprint={2604.13488},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2604.13488}, 
+}
 ```
