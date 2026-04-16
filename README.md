@@ -1,5 +1,5 @@
 ---
-# Towards Scalable Lightweight GUI Agents via Multi-role Orchestration [![Paper](http://img.shields.io/badge/Paper-arxiv.2502.18906-99D4C8.svg)](xxxx)
+# Towards Scalable Lightweight GUI Agents via Multi-role Orchestration [![Paper](http://img.shields.io/badge/Paper-arxiv.2502.18906-99D4C8.svg)](https://arxiv.org/pdf/2604.13488)
 
 <div align="center">
   <i>Findings of ACL 2026</i>
